@@ -1,4 +1,4 @@
-# expense_manager_new
+# Weekly Managment System
 
 A new Flutter project.
 
